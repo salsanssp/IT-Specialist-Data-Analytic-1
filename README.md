@@ -10,8 +10,6 @@ Let's embark on this exciting data journey together! 📊✨
 
 Thank you for dropping by! 🙌
 
-# Data Visualization
-
 ## Data Basics
 
 Data is a collection of facts or values ​​that have not been processed or organized so that they do not have a clear meaning. Data can be numbers, letters, images, sounds, or anything else that can be captured and stored.
